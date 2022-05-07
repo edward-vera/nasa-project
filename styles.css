@@ -32,6 +32,7 @@ section {
     font-size: medium;
     border: 0pt solid rgb(36, 0, 83);
     margin-left: 0px;
+    margin-top: 30px;
     font-style: inherit;
 }
 
@@ -85,3 +86,5 @@ section {
 submit {
     display: flex;
 }
+
+[]
