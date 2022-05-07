@@ -52,7 +52,7 @@ section {
 
 .oi{
     border: 0pt solid rgb(139, 0, 81);
-    margin-left: 20px;
+    margin-left: 0px;
     border: 100%;
     padding: 0pt;
     width: 270px;
@@ -72,7 +72,7 @@ section {
 
 .ci{
     border: 0pt solid rgb(68, 0, 255);
-    margin-left: 20px;
+    margin-left: 2px;
     border: 100%;
     padding: 0pt;
     width: 270px;
