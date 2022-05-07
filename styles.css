@@ -1,4 +1,71 @@
-body {
-    background-color: aqua;
-    background-color: rgb(163, 55, 55);
+.nasa{
+    width: 850px;
+    height: 450px;
+    border: 1px solid red;
+}
+
+  section {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+.h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    border: 1pt solid red;
+}
+
+.div{
+    background-color: #E6E6E6;
+    display: flex;
+    border: 1pt solid rgb(255, 0, 0);
+    width: 850px;
+    height: 324px;
+}
+
+.sm {
+    border: 1pt solid blue;
+    margin-left: 20px;
+    border: 100%;
+    padding: 0pt;
+}
+
+.sm list{
+    display: flex;
+    border: 1pt solid red;
+    font-family: cursive;
+    margin-left: 0pt;
+    border: 100pt;
+    padding-left: 0pt;
+}
+
+.oi{
+    border: 1pt solid blue;
+    margin-left: 20px;
+    border: 100%;
+    padding: 0pt;
+}
+
+.oi list{
+    display: flex;
+    border: 1pt solid rgb(76, 0, 255);
+}
+
+.ul{
+    font-family: -apple-system,  Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: auto;
+    margin: 0px;
+    padding: 0px;
+    border: 100%;
+}
+
+.contact info{
+    display: flex;
+}
+
+.ci{
+    border: 1pt solid rgb(68, 0, 255);
+    margin-left: 20px;
+    border: 100%;
+    padding: 0pt;
 }
