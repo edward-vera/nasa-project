@@ -14,6 +14,7 @@ section {
     font-size: medium;
     border: 0pt solid red;
     margin-left: 20px;
+    margin-top: 30px;
     font-style: inherit;
 }
 
@@ -21,7 +22,8 @@ section {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: medium;
     border: 0pt solid rgb(0, 83, 4);
-    margin-left: 20px;
+    margin-left: 0px;
+    margin-top: 30px;
     font-style: inherit;
 }
 
@@ -64,6 +66,8 @@ section {
     margin: 0px;
     padding: 0px;
     border: 100%;
+    font-size: small;
+    line-height: 1.5;
 }
 
 .contact info{
@@ -72,8 +76,12 @@ section {
 
 .ci{
     border: 0pt solid rgb(68, 0, 255);
-    margin-left: 2px;
+    margin-left: 0px;
     border: 100%;
     padding: 0pt;
     width: 270px;
+}
+
+submit {
+    display: flex;
 }
